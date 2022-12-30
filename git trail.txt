@@ -11,3 +11,7 @@ author:karthi
 4.attachments(image,audio,video) code
 
 5.hiding last seen code
+
+6.adding audio call feature code
+
+7.adding video call feature code
