@@ -9,3 +9,5 @@ author:karthi
 3.last seen code
 
 4.attachments(image,audio,video) code
+
+5.hiding last seen code
